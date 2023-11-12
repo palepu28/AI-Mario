@@ -24,7 +24,7 @@ Mario Agent successfully cleared one level from each of these 8 worlds.
 | 3-2 | ![Mario_AI_3_2](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/0e43e0bb-83aa-47b6-8021-42ef0e02d4b4) | clear |
 | 5-1 | ![Mario_AI_5_1](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/fe319f90-371e-4188-9dbd-55e786ae16bb) | clear |
 | 6-1 | ![Mario_AI_6_1](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/589b1ac3-a7a2-4969-a89e-f7c4e53e4a98) | clear |
-| 8-1 | ![Mario_AI_8_2](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/598bbd49-432d-418a-8cc7-9bd3b2ae674c) | clear |
+| 8-2 | ![Mario_AI_8_2](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/598bbd49-432d-418a-8cc7-9bd3b2ae674c) | clear |
 
 REFERENCES:
 
