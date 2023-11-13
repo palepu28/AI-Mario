@@ -19,12 +19,12 @@ Mario Agent successfully cleared one level from each of these 8 worlds.
 
 | stage | gameplay | status |
 |:-:|:-:|:-:|
-| 1-1 | ![MarioAI_1_1](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/5c9c5e37-380e-4119-b701-dbda65825aaf) | clear |
-| 2-1 | ![Mario_AI_2_1](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/f1e87dc0-80e7-418c-bc57-45c4e2bef87a) | clear |
-| 3-2 | ![Mario_AI_3_2](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/0e43e0bb-83aa-47b6-8021-42ef0e02d4b4) | clear |
-| 5-1 | ![Mario_AI_5_1](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/fe319f90-371e-4188-9dbd-55e786ae16bb) | clear |
-| 6-1 | ![Mario_AI_6_1](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/589b1ac3-a7a2-4969-a89e-f7c4e53e4a98) | clear |
-| 8-2 | ![Mario_AI_8_2](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/598bbd49-432d-418a-8cc7-9bd3b2ae674c) | clear |
+| 1-1 | ![Mario_AI_1_1](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/53318c40-f2da-4ed6-b706-a62a609af267) | clear |
+| 2-1 | ![Mario_AI_2_1](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/70a84ae4-19ad-40a4-adf7-70531f34cae1) | clear |
+| 3-2 | ![Mario_AI_3_2](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/16bbe93e-9751-4ac0-921a-6e65237371c0) | clear |
+| 5-1 | ![Mario_AI_5_1](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/3ff1a035-fe05-44b2-a745-0b64c793d7b9) | clear |
+| 6-1 | ![Mario_AI_6_1](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/a0070fa8-a4ea-4377-8076-0d9cb740ec27) | clear |
+| 8-2 | ![Mario_AI_8_2](https://github.com/CodeWithCharan/AI-Mario/assets/106027109/5ad51188-d028-4e9e-a082-b3a9a63322c7) | clear |
 
 REFERENCES:
 
