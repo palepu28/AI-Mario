@@ -1,8 +1,6 @@
 # A REINFORCEMENT LEARNING APPROACH FOR PLAYING SUPER MARIO BROS
 
-Super Mario Bros. game, which was released in 1985 for the Nintendo Entertainment
-System, had 32 levels spanning across 8 worlds. Our Artificial Intelligence (AI)
-Mario Agent successfully cleared one level from each of these 8 worlds. 
+Super Mario Bros. game, which was released in 1985 for the Nintendo Entertainment System, had 32 levels spanning across 8 worlds. The Mario Agent successfully cleared 6 levels from these 8 worlds. 
 
 ## Requirements
 
