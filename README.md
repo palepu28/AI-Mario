@@ -1,3 +1,42 @@
+# AI Mario 🎮🤖  
+
+AI Mario is an AI-powered game that uses reinforcement learning to control Mario's movements. The project implements deep learning techniques to train an agent to play the game efficiently, making strategic jumps, avoiding obstacles, and progressing through levels.  
+
+##🔹 Features  
+- 🧠 **Reinforcement Learning (DQN, PPO, etc.)**  
+- 🎮 **Automated Mario Gameplay**  
+- 📊 **Performance Tracking & Training Analysis**  
+- 🏆 **Improved AI Decision Making**  
+
+## 🔹 Technologies Used  
+- **Python** 🐍  
+- **OpenAI Gym** 🏋️  
+- **PyTorch / TensorFlow** 🔥  
+- **Super Mario Bros Gym Environment** 🎮  
+
+## 🔹 My Contributions  
+✅ Implemented key AI training logic  
+✅ Optimized reward functions for better performance  
+✅ Debugged and fine-tuned the reinforcement learning model  
+✅ Contributed to project documentation and improvements  
+
+ 🔹 Developed By  
+**[Palepu Sathwik Raja]** - [Your GitHub Profile](https://github.com/palepu28)  
+**[CodeWithCharan](https://github.com/CodeWithCharan)**  
+
+ 🔹 Setup & Installation  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/your-username/AI-Mario.git
+   cd AI-Mario
+
+ 2.  Install dependencies:
+pip install -r requirements.txt
+
+3.Run the AI model:
+python train.py
+
+
 # A REINFORCEMENT LEARNING APPROACH FOR PLAYING SUPER MARIO BROS
 
 Super Mario Bros. game, which was released in 1985 for the Nintendo Entertainment System, had 32 levels spanning across 8 worlds. The Mario Agent successfully cleared 6 levels from these 8 worlds. 
@@ -33,3 +72,5 @@ https://github.com/nicknochnack/MarioRL
 https://stable-baselines3.readthedocs.io/en/master/_modules/stable_baselines3/common/atari_wrappers.html
 
 https://youtu.be/dWmJ5CXSKdw?si=CBPaVoSZM665WRwy
+
+
