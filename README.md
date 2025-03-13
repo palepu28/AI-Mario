@@ -20,9 +20,11 @@ AI Mario is an AI-powered game that uses reinforcement learning to control Mario
 ✅ Debugged and fine-tuned the reinforcement learning model  
 ✅ Contributed to project documentation and improvements  
 
+
+
  🔹 Developed By  
-**[Palepu Sathwik Raja]** - [Your GitHub Profile](https://github.com/palepu28)  
-**[CodeWithCharan](https://github.com/CodeWithCharan)**  
+**[Palepu Sathwik Raja]** - **(https://github.com/palepu28)**  
+**[CodeWithCharan]** - **(https://github.com/CodeWithCharan)**  
 
  🔹 Setup & Installation  
 1. Clone the repository:  
@@ -36,6 +38,7 @@ pip install -r requirements.txt
 3.Run the AI model:
 python train.py
 
+**Developed collaboratively with CodeWithCharan.**
 
 # A REINFORCEMENT LEARNING APPROACH FOR PLAYING SUPER MARIO BROS
 
